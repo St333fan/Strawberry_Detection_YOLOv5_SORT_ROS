@@ -1,1 +1,1 @@
-# Strawberrie_Detection_YOLOv5_SORT_ROS
+# Strawberry_Detection_YOLOv5_SORT_ROS
